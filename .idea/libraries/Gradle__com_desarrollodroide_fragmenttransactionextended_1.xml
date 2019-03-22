@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.desarrollodroide:fragmenttransactionextended-1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/fragmenttransactionextended-1.aar/eaefcdfb6f3e23ba92e7749980c2de32/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/fragmenttransactionextended-1.aar/eaefcdfb6f3e23ba92e7749980c2de32/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.desarrollodroide/fragmenttransactionextended/1/cf3a9718bad18e915389994459976fe7f242158/fragmenttransactionextended-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

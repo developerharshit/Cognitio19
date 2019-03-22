@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "541245307397",
+    "firebase_url": "https://cognitio-15539.firebaseio.com",
+    "project_id": "cognitio-15539",
+    "storage_bucket": "cognitio-15539.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541245307397:android:68057ac87faaa104",
+        "android_client_info": {
+          "package_name": "nitjsr.in.mes.cognitio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541245307397-u8bbh1dldub308pvb9i25qg15vf8hsfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxJUc0A3bLDMx5L1zkkVM1hbCbreNK0Ro"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
